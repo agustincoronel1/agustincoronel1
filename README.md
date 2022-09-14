@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```js
-const agustincoronel = {
+const agustinCoronel = {
   city: "Rosario, Argentina",
   role: {
     fullStackDev: ["JavaScript", "HTML", "CSS", "SQL"],
