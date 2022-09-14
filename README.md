@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```js
 const i = {
   name: "Francisco Rappazzini",
   city: "Buenos Aires, Argentina",
@@ -25,3 +26,4 @@ const i = {
   education: [{Henry: "https://www.soyhenry.com/"}, {Coderhouse: "https://www.coderhouse.com/"}],
   energy: "full 💯",
 };
+```
