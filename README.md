@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```js
-const i = {
-  name: "Francisco Rappazzini",
-  city: "Buenos Aires, Argentina",
+const agustincoronel = {
+  city: "Rosario, Argentina",
   role: {
     fullStackDev: ["JavaScript", "HTML", "CSS", "SQL"],
-    stack: ["Node JS", "React JS", "Redux", "PostgreSQL", "Sequelize", "MongoDB", "Firebase", 
-              "jQuery", "Sass", "Less", "npm", "Git", "Material-UI", "Bootstrap", "AJAX", "& more"],
+    stack: ["Node JS", "React JS", "Redux","Express", "PostgreSQL", "Sequelize", 
+             "npm", "Git", "Bootstrap", "& more"],
   },
-  education: [{Henry: "https://www.soyhenry.com/"}, {Coderhouse: "https://www.coderhouse.com/"}],
-  energy: "full 💯",
+  education: [{Henry: "https://www.soyhenry.com/"}, {Polo: "https://polotecnologico.net/"}],
 };
 ```
