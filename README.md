@@ -11,12 +11,12 @@
 
 ## 🔥 Languages & Tools
 
-- **Programming Languages:** JavaScript, Python, PHP  
+- **Programming Languages:** JavaScript, PHP  
 - **Frontend:** React, Redux, HTML5, CSS3, SASS  
 - **Backend:** Node.js, PHP  
 - **Databases:** PostgreSQL, MySQL  
 - **Version Control:** Git, GitHub  
-- **Development Tools:** Visual Studio Code, npm, Webpack  
+- **Development Tools:** npm, Webpack  
 - **Soft Skills:** Problem Solving, Communication, Collaboration  
 
 ---
