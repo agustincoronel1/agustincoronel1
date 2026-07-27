@@ -139,18 +139,6 @@ Coursework completed through the third year.
 
 ---
 
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=agustincoronel1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Agustín Coronel's GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustincoronel1&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-
-</div>
-
----
-
 ## Let's connect
 
 I'm interested in remote opportunities where I can contribute to **Python backend development, process automation, internal tooling, and reliable software systems**.
